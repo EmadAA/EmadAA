@@ -1,118 +1,46 @@
-{
-  "version": "1.0.0",
-  "exportedAt": "2025-10-27T18:57:16.687Z",
-  "profile": {
-    "title": "Emad Uddin Adil",
-    "subtitle": "A WordPress and React.js Developer",
-    "currentWork": "a fullstack project name Household Services",
-    "currentLearn": "Next.js ",
-    "collaborateOn": "Web Based Projects",
-    "helpWith": "ML and AI",
-    "ama": "React.js, JavaScript,WordPress, Elementor, Malware Removal, Speed Optimization",
-    "contact": "emadadil999@gmail.com",
-    "funFact": "",
-    "visitorsBadge": false,
-    "badgeStyle": "flat",
-    "badgeColor": "0e75b6",
-    "badgeLabel": "Profile views",
-    "githubProfileTrophy": false,
-    "githubStats": true,
-    "githubStatsOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "topLanguages": true,
-    "topLanguagesOptions": {
-      "theme": "",
-      "titleColor": "",
-      "textColor": "",
-      "bgColor": "",
-      "hideBorder": false,
-      "cacheSeconds": null,
-      "locale": "en"
-    },
-    "streakStats": false,
-    "streakStatsOptions": {
-      "theme": ""
-    },
-    "devDynamicBlogs": false,
-    "mediumDynamicBlogs": false,
-    "rssDynamicBlogs": false
-  },
-  "links": {
-    "currentWork": "",
-    "collaborateOn": "",
-    "helpWith": "",
-    "portfolio": "https://emadaa.github.io/Emad-Uddin-Adil/",
-    "blog": "https://www.linkedin.com/in/emad-uddin-adil/recent-activity/articles/",
-    "resume": "https://drive.google.com/file/d/1cdVxN0kPDk7PoessUmaz0UyoZL_fEbX-/view?usp=drivesdk"
-  },
-  "social": {
-    "github": "EmadAA",
-    "dev": "",
-    "linkedin": "emad-uddin-adil/",
-    "codepen": "",
-    "stackoverflow": "16789280/emad-adil",
-    "kaggle": "emaduddinadil",
-    "codesandbox": "",
-    "fb": "emad.adil.509",
-    "instagram": "adilemaduddin",
-    "twitter": "EmadUddin_Adil",
-    "dribbble": "Emad_A",
-    "behance": "emaduddinadil",
-    "medium": "@emadadil999",
-    "youtube": "",
-    "codechef": "",
-    "hackerrank": "59D_1154",
-    "codeforces": "emad_adil",
-    "leetcode": "Emad_Adil",
-    "topcoder": "",
-    "hackerearth": "",
-    "geeks_for_geeks": "",
-    "discord": "",
-    "rssurl": "",
-    "twitterBadge": true
-  },
-  "support": {
-    "buyMeACoffee": ""
-  },
-  "skills": [
-    "android",
-    "bootstrap",
-    "c",
-    "cplusplus",
-    "css3",
-    "dart",
-    "express",
-    "figma",
-    "firebase",
-    "flutter",
-    "git",
-    "html5",
-    "java",
-    "javascript",
-    "keras",
-    "linux",
-    "matplotlib",
-    "mongodb",
-    "mysql",
-    "nodejs",
-    "numpy",
-    "pandas",
-    "php",
-    "postgresql",
-    "postman",
-    "python",
-    "react",
-    "reactnative",
-    "sass",
-    "scikit_learn",
-    "seaborn",
-    "tailwind"
-  ]
-}
+# 👋 Hi, I'm Emad Uddin Adil  
+### 💻 A WordPress and React.js Developer  
+
+I’m currently working on a **Fullstack Project** called **Household Services**.  
+🌱 I’m currently learning **Next.js**  
+🤝 I’m open to collaborating on **Web-based projects**  
+💬 Ask me about **React.js, JavaScript, WordPress, Elementor, Malware Removal, and Website Speed Optimization**  
+📫 Reach me at **emadadil999@gmail.com**
+
+---
+
+### 🌐 **Connect with Me**
+
+[Portfolio](https://emadaa.github.io/Emad-Uddin-Adil/) •  
+[LinkedIn](https://www.linkedin.com/in/emad-uddin-adil/) •  
+[Twitter](https://twitter.com/EmadUddin_Adil) •  
+[GitHub](https://github.com/EmadAA) •  
+[Stack Overflow](https://stackoverflow.com/users/16789280/emad-adil) •  
+[Behance](https://behance.net/emaduddinadil)  
+
+---
+
+### 🛠️ **Tech Stack**
+
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), React, TailwindCSS, Bootstrap  
+**Backend:** Node.js, Express.js, Firebase, Supabase  
+**CMS:** WordPress, Elementor, WooCommerce  
+**Mobile:** Flutter, React Native, Dart  
+**Databases:** MySQL, PostgreSQL, MongoDB  
+**Other Tools:** Git, Figma, Linux, Postman, Python (Pandas, NumPy, Matplotlib, Seaborn, Keras, Scikit-learn)
+
+---
+
+### 📈 **GitHub Stats**
+
+![Emad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmadAA&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmadAA&layout=compact)
+
+---
+
+### 📄 **Resume**
+[View My Resume](https://drive.google.com/file/d/1cdVxN0kPDk7PoessUmaz0UyoZL_fEbX-/view?usp=drivesdk)
+
+---
+
+⭐️ From [@EmadAA](https://github.com/EmadAA)
