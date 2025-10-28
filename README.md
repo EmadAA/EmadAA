@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emad Uddin Adil  
+# Hey  There, I'm Emad Uddin Adil  
 ### 💻 A WordPress and React.js Developer  
 
 I’m currently working on a **Fullstack Project** called **Household Services**.  
